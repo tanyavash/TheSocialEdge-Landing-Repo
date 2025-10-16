@@ -6,7 +6,7 @@ Welcome to TheSocialEdge landing repository! This is the central hub for accessi
 
 The frontend repository contains all the code related to the user interface and client-side functionalities of TheSocialEdge application. You can find it at the following link:
 
-[TheSocialEdge Frontend Repository](https://github.com/MRPERFECT0603/TheSocialEdge-FrontEnd-Microservices)
+[TheSocialEdge Frontend Repository](https://github.com/tanyavash/TheSocialEdge---Frontend-Repository)
 
 ## Backend Repository
 
