@@ -12,7 +12,7 @@ The frontend repository contains all the code related to the user interface and 
 
 The backend repository hosts the server-side code, database configurations, and APIs for TheSocialEdge application. You can access it using the link below:
 
-[TheSocialEdge Backend Repository](https://github.com/MRPERFECT0603/TheSocialEdge-Backend-Microservices)
+[TheSocialEdge Backend Repository](https://github.com/tanyavash/TheSocialEdge---Backend-Repository)
 
 Feel free to explore each repository to learn more about the specific components and functionalities of TheSocialEdge project.
 
